@@ -80,6 +80,7 @@ public class Main {
 
         System.out.println("String Queue after removal:");
         stringQueue.display();  // Output: World Queue
+        stringQueue.display();  // Output: World Queue
 
 
         System.out.println("Example PriorityQueue: ");
