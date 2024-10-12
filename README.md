@@ -1,4 +1,5 @@
-* ASSIGNMENT REQUIREMENTS *
+## Data-Structure-Assignment-2-Stacks-and-Queues
+### Project Requirements
 
 1. The Stack class follows LIFO, and must have the following constructors and methods:
    - (a) public Stack(int arraySize)
